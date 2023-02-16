@@ -73,7 +73,7 @@ var commands = [
 ];
 
 const rest = new d.REST({ version: "10" }).setToken(
-  "MTA3NTQxODIzMDYzNTYzODc5NQ.GufUm6.T7XqIL68SrtZ3xpT4trDUeQ_HYnNsXmqmX53-I"
+  ""
 );
 
 async function registercommands() {
